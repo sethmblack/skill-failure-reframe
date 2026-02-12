@@ -1,10 +1,9 @@
 ---
 name: failure-reframe
-description: Transform the meaning of failure from outcome to inaction, freeing people
-  from fear-based paralysis using Sara Blakely's methodology.
+description: Transform the meaning of failure from outcome to inaction, freeing people from fear-based paralysis using Sara Blakely's methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - failure-reframe
